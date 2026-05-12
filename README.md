@@ -152,6 +152,10 @@ export type {
 }
 ```
 
+## Documentation
+
+Full documentation at [docs.supaproxy.cloud](https://docs.supaproxy.cloud/introduction).
+
 ## Licence
 
 MIT
