@@ -40,12 +40,12 @@ const result = await inspect({
   },
 })
 
-// result.diff     — what changed (files, additions, deletions, patches)
-// result.blame    — who wrote the lines being modified
-// result.commits  — recent commit history on affected files
-// result.author   — how familiar the PR author is with the affected code
-// result.related  — other people's recent work on the same files
-// result.scope    — how broad the change is (focused, moderate, sprawling)
+// result.diff     - what changed (files, additions, deletions, patches)
+// result.blame    - who wrote the lines being modified
+// result.commits  - recent commit history on affected files
+// result.author   - how familiar the PR author is with the affected code
+// result.related  - other people's recent work on the same files
+// result.scope    - how broad the change is (focused, moderate, sprawling)
 ```
 
 ### Selective context gathering
